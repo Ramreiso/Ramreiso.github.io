@@ -733,7 +733,7 @@
       position: absolute;
     }
     nav a.button-collapse, nav a.button-collapse i {
-      color: #27e40fec;
+      color: #187c0bec;
       height: 56px;
       line-height: 56px;
     }
@@ -792,6 +792,9 @@
     }
     #intro.section .container *:not(span) {
       padding: 0;
+    }
+    .contactDetails{
+      font-size: 14px;
     }
     .card .card-content .card-title {
       font-size: 20px;
