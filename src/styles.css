@@ -1057,7 +1057,7 @@ h2 {
 
 @media (max-width: 640px) {
   .app-shell {
-    padding: 24px 18px 48px;
+    padding: 24px 12px 48px;
   }
 
   .hero-section {
@@ -1101,6 +1101,11 @@ h2 {
     border-radius: 20px;
   }
 
+  .accent-block {
+    padding: 30px 14px;
+    border-radius: 20px;
+  }
+
   .skills-copy-panel {
     padding: 20px;
   }
@@ -1125,21 +1130,25 @@ h2 {
 
   .project-grid,
   .featured-grid {
+    width: 100%;
     grid-template-columns: 1fr;
     gap: 16px;
   }
 
   .project-card {
-    padding: 20px;
+    width: 100%;
+    padding: 18px;
+    border-radius: 20px;
   }
 
   .featured-card {
-    padding: 24px;
+    padding: 18px;
   }
 
   .project-visual {
-    height: 142px;
-    margin: -4px -4px 20px;
+    height: 150px;
+    margin: -6px -6px 20px;
+    border-radius: 16px;
   }
 
   .project-device {

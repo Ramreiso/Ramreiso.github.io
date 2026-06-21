@@ -77,7 +77,7 @@ const projects = [
 
 const socialLinks = [
   { label: 'GitHub', href: 'https://github.com/Ramreiso', icon: 'github' },
-  { label: 'LinkedIn', href: 'https://www.linkedin.com/in/ramreiso-kashung', icon: 'linkedin' },
+  { label: 'LinkedIn', href: 'https://www.linkedin.com/in/ramreiso-kashung-765293198', icon: 'linkedin' },
   { label: 'Email', href: 'mailto:ramreisog24@gmail.com', icon: 'email', external: false },
 ];
 
